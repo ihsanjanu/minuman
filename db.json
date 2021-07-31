@@ -1,0 +1,112 @@
+{
+    "best-seller": [
+      {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "latte",
+        "harga": 30000,
+        "is_ready": true,
+        "gambar": "latte.jpg"
+      },
+      {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "cappucino",
+        "harga": 35000,
+        "is_ready": true,
+        "gambar": "cappucino.jpg"
+      },
+      {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "kopi tubruk",
+        "harga": 20000,
+        "is_ready": true,
+        "gambar": "kopi-tubruk.jpg"
+      }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "latte",
+            "harga": 30000,
+            "is_ready": true,
+            "gambar": "latte.jpg"
+        },
+        {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "cappucino",
+            "harga": 35000,
+            "is_ready": true,
+            "gambar": "cappucino.jpg"
+        },
+        {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "kopi tubruk",
+            "harga": 20000,
+            "is_ready": true,
+            "gambar": "kopi-tubruk.jpg"
+        },
+        {
+          "id": 4,
+          "kode": "K-04",
+          "nama": "americano",
+          "harga": 20000,
+          "is_ready": true,
+          "gambar": "americano.jpg"
+        },
+        {
+          "id": 5,
+          "kode": "K-05",
+          "nama": "espresso",
+          "harga": 30000,
+          "is_ready": true,
+          "gambar": "espresso.jpg"
+        },
+        {
+          "id": 6,
+          "kode": "K-06",
+          "nama": "kentang goreng",
+          "harga": 15000,
+          "is_ready": true,
+          "gambar": "kentang-goreng.jpg"
+        },
+        {
+          "id": 7,
+          "kode": "K-07",
+          "nama": "kopi jos",
+          "harga": 10000,
+          "is_ready": true,
+          "gambar": "kopi-jos.jpg"
+        },
+        {
+          "id": 8,
+          "kode": "K-08",
+          "nama": "mocachino",
+          "harga": 30000,
+          "is_ready": true,
+          "gambar": "mocachino.jpg"
+        },
+        {
+          "id": 9,
+          "kode": "K-09",
+          "nama": "pisang goreng 5 pcs",
+          "harga": 10000,
+          "is_ready": true,
+          "gambar": "pisang-goreng.jpg"
+        },
+        {
+            "id": 10,
+            "kode": "K-10",
+            "nama": "ring onion",
+            "harga": 15000,
+            "is_ready": true,
+            "gambar": "ring-onion.jpg"
+          }
+      ],
+      "keranjangs": [],
+      "pesanans": []
+}
